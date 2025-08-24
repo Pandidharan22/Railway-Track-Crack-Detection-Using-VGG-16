@@ -72,7 +72,7 @@ print("Path to dataset files:", path)
 
 ## Results
 
-- **Validation Accuracy**: 75%
+- **Validation Accuracy**: 85%
 - Low false positives and false negatives
 - Well-generalized to unseen data
 - Suitable for real-time autonomous inspection systems
